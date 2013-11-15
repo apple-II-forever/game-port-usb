@@ -1,2 +1,2 @@
-game-port-usb
-=============
+Game Port USB Interface
+=======================
